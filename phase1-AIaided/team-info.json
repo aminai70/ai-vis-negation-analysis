@@ -1,0 +1,26 @@
+{
+  "team_name": "AIrony",
+  "students": [
+    {
+      "student_id": "12542266",
+      "first_name": "Seyed Amin",
+      "last_name": "Hosseini Langeroudi",
+      "email": "Langeroudiamin@gmail.com",
+      "github_user": "aminai70"
+    },
+    {
+      "student_id": "12552507",
+      "first_name": "Ali AKbar",
+      "last_name": "Talebi",
+      "email": "Alitalebi171@gmail.com",
+      "github_user": "Alitalebi171@gmail.com"
+    },
+    {
+      "student_id": "12453731",
+      "first_name": "Elham",
+      "last_name": "Nohrouzian",
+      "email": "e.nohroozian@gmail.com",
+      "github_user": "inspiration988"
+    }
+  ]
+}

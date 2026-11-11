@@ -1,0 +1,7 @@
+pandas
+pyarrow
+torch
+transformers
+plotly
+nbformat
+jupyterlab
