@@ -1,5 +1,12 @@
 # Exploring Negation in Movie-Review Sentiment Classification
 
+
+## Team Composition
+
+Our group initially had four members. Before work began, one member messaged us saying they had apparently deregistered from the course, so we continued with three members.
+
+
+
 Phase I of the AI & Visualization project investigates how a pretrained
 sentiment classifier responds to negation edits.
 
