@@ -2,7 +2,7 @@
 
 > **Required identification (complete before submission):**
 > - **AI-assisted pair member 1:** Elham Nohrouzian | K12453731
-> - **AI-assisted pair member 2:** Ali akbar talebi | K
+> - **AI-assisted pair member 2:** Ali akbar talebi | K12552507
 >
 > Replace the placeholders above with the first and last names and student IDs of both members of the AI-assisted pair. The course instructions require these identifiers at the beginning of this report.
 
